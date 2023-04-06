@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.oppwa.mobile.connect.demo.app-mergeDebugResources-40:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/fnrcomac/.gradle/caches/transforms-3/24109d06a28d5f82aaf673c1631a72bd/transformed/material-1.8.0/res/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,61",
+                        "endOffsets": "105,167"
+                    }
+                }
+            ]
+        }
+    ]
+}
